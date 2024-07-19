@@ -4,6 +4,6 @@ import WelcomeScreen from '@/screen/WelcomeScreen'
 
 export default function Welcome() {
   return (
-   <WelcomeScreen/>
+    <WelcomeScreen />
   )
 }
